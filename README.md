@@ -49,4 +49,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/RTspec/Java/tree/main/0435-non-overlapping-intervals/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/RTspec/Java/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/RTspec/Java/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
