@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/RTspec/Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/RTspec/Java/tree/main/0162-find-peak-element/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/RTspec/Java/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0735-asteroid-collision](https://github.com/RTspec/Java/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RTspec/Java/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/RTspec/Java/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sorting
@@ -74,4 +75,12 @@
 | [0141-linked-list-cycle](https://github.com/RTspec/Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/RTspec/Java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/RTspec/Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/RTspec/Java/tree/main/0735-asteroid-collision/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/RTspec/Java/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
