@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/RTspec/Java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RTspec/Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/RTspec/Java/tree/main/0162-find-peak-element/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/RTspec/Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/RTspec/Java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0735-asteroid-collision](https://github.com/RTspec/Java/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RTspec/Java/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -21,6 +22,7 @@
 | [0056-merge-intervals](https://github.com/RTspec/Java/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/RTspec/Java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/RTspec/Java/tree/main/0088-merge-sorted-array/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/RTspec/Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/RTspec/Java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/RTspec/Java/tree/main/0881-boats-to-save-people/) | Medium |
 ## Binary Search
@@ -77,6 +79,7 @@
 | [0141-linked-list-cycle](https://github.com/RTspec/Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/RTspec/Java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/RTspec/Java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/RTspec/Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +88,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/RTspec/Java/tree/main/0735-asteroid-collision/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RTspec/Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RTspec/Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RTspec/Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RTspec/Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RTspec/Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
