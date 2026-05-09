@@ -59,6 +59,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/RTspec/Java/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RTspec/Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/RTspec/Java/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/RTspec/Java/tree/main/0213-house-robber-ii/) | Medium |
@@ -112,4 +113,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RTspec/Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/RTspec/Java/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/RTspec/Java/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
