@@ -8,15 +8,15 @@ class Solution {
         
         List<int[]> FrequencyStore = new ArrayList<>();
         for(Map.Entry<Integer,Integer> x : FrequencyCounter.entrySet()){
-            FrequencyStore.add(new int[] {x.getKey(),x.getValue()});
+            FrequencyStore.add(new int[] {x.getValue(),x.getKey()});
 
         }
 
-        FrequencyStore.sort((a, b) -> b[1] - a[1]);//sorting in Desc order
+        FrequencyStore.sort((a, b) -> b[0] - a[0]);//sorting in Desc order
         
         int[] OutputArray = new int[k];
         for(int i = 0; i < k; ++i){
-            OutputArray[i] = FrequencyStore.get(i)[0];
+            OutputArray[i] = FrequencyStore.get(i)[1];
         }
 
         return OutputArray;
